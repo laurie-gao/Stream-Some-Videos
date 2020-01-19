@@ -1,6 +1,6 @@
 ## Description
 
-This is the client side of a typical streaming app. 
+This is the client side of a typical streaming app built with react and redux. 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
